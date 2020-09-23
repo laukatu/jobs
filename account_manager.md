@@ -1,12 +1,12 @@
 # Oferta de trabajo: Account Manager
 
-En Laukatu buscamos a una persona que nos ayude a mejorar la relación con nuestros clientes, un **account manager**. Sus tareas serían:
+En Laukatu buscamos a una persona que nos ayude a mejorar la relación con nuestros clientes, un **account manager**. Sus tareas serán:
 
 - Detectar necesidades de cliente.
 - Reunirse con clientes o potenciales clientes.
 - Preparar presupuestos y presentaciones.
-- Comunicar con el cliente los avances en el proyecto, retrasos, imprevistos, etc.
-- Preparar reportes mensuales para el cliente.
+- Comunicarse con el cliente sobre los avances en el proyecto, retrasos, imprevistos, etc.
+- Preparar informes mensuales para el cliente.
 - Gestionar y fidelizar la cartera de clientes.
 
 En definitiva, ser el nexo de unión entre el equipo técnico y el cliente.
