@@ -26,7 +26,7 @@ En Laukatu buscamos un desarrollador Frontend para ayudarnos a sacar adelante lo
 **Ofrecemos:**
 
 - Jornada completa.
-- Salario 24000€ brutos anuales + variable (de 1000€ a 5000€ en función de objetivos).
+- Salario 21000€ brutos anuales + variable (de 1000€ a 5000€ en función de objetivos).
 - Contrato 6 meses + indefinido.
 - Horario flexible.
 - Posibilidad trabajo en remoto salvo casos puntuales.
