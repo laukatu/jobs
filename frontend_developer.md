@@ -7,7 +7,7 @@ En Laukatu buscamos un desarrollador Frontend para ayudarnos a sacar adelante lo
 **Requisitos:**
 
 - Experiencia de 1-2 años trabajando como Frontend.
-- Sólidos conocimientos de HTML/CSS y Javascript ES6+.
+- Conocimientos de HTML/CSS y Javascript ES6+.
 - Conocimientos de preprocesadores SASS/SCSS.
 - Experiencia con Responsive Design.
 - Control de versiones con Git.
